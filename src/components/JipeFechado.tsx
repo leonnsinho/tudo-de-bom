@@ -42,7 +42,7 @@ const JipeFechado = () => {
                   />
                 </div>
                 <div className="absolute top-8 right-8 bg-orange-500 text-white px-4 py-2 rounded-full font-bold text-lg shadow-lg">
-                  R$ 700
+                  R$ 800
                 </div>
               </div>
 
@@ -125,7 +125,7 @@ const JipeFechado = () => {
 
                 {/* Price Note */}
                 <p className="text-xs text-gray-500 text-center mt-4">
-                  Valor fixo de R$ 700,00 para grupos de até 10 pessoas (Somente Dinheiro ou Pix)
+                  Valor fixo de R$ 800,00 para grupos de até 10 pessoas (Somente Dinheiro ou Pix)
                 </p>
               </div>
             </div>
@@ -135,8 +135,8 @@ const JipeFechado = () => {
         {/* Additional Info */}
         <div className="max-w-4xl mx-auto mt-8 text-center">
           <p className="text-sm text-gray-600">
-            <span className="font-semibold">Dica:</span> Perfeito para dividir entre amigos e família! 
-            Com 10 pessoas, sai apenas R$ 70 por pessoa.
+            <span className="font-semibold">Dica:</span> Perfeito para dividir entre amigos e família!
+            Com 10 pessoas, sai apenas R$ 80 por pessoa.
           </p>
         </div>
       </div>

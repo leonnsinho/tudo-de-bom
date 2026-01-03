@@ -28,7 +28,7 @@ const Reservas = () => {
   }, []);
 
   const passeios = [
-    { id: 'jipe-fechado', nome: 'Jipe Fechado (até 10 pessoas)', preco: 'R$ 700', imagem: 'https://i.postimg.cc/qq7PywSQ/IMG-20250726-WA0008.jpg' },
+    { id: 'jipe-fechado', nome: 'Jipe Fechado (até 10 pessoas)', preco: 'R$ 800', imagem: 'https://i.postimg.cc/qq7PywSQ/IMG-20250726-WA0008.jpg' },
     { id: 'jeep-castelhanos', nome: 'Jeep para Castelhanos', preco: 'R$ 130', imagem: 'https://i.postimg.cc/qq7PywSQ/IMG-20250726-WA0008.jpg' },
     { id: 'lancha-castelhanos', nome: 'Lancha para Castelhanos (ida e volta)', preco: 'R$ 320', imagem: 'https://cdn.prod.website-files.com/680f8dfb18edd53d6bf1cc4e/681a011b04f353ae50532662_caption.jpg' },
     { id: 'lancha-bonete', nome: 'Lancha para Bonete (ida e volta)', preco: 'R$ 250', imagem: PraiaDoBonete },
