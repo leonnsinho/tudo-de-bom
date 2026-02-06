@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Menu, X, MessageCircle } from 'lucide-react';
-import Logo from '../assets/images/logo.svg'; // Correct the SVG logo path
+import Logo from '../assets/images/Logo.svg';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
